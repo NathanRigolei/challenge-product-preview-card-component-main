@@ -1,5 +1,8 @@
 # Frontend Mentor - Product preview card component
 
+
+Link:https://nathanrigolei.github.io/challenge-product-preview-card-component-main/
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
